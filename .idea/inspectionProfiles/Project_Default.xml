@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="robotframework" />
+          <option value="robotframework-seleniumlibrary" />
+          <option value="selenium" />
+          <option value="robotframework-requests" />
+          <option value="robotframework-jsonlibrary" />
+          <option value="jsonschema" />
+          <option value="pymssql" />
+          <option value="robotframework-databaselibrary" />
+          <option value="pdfminer.six" />
+          <option value="robotframework-pabot" />
+          <option value="deepdiff" />
+          <option value="numpy" />
+          <option value="webdriver-manager" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
