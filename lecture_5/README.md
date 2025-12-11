@@ -23,7 +23,3 @@ uvicorn main:app --reload
 3. Open docs: http://127.0.0.1:8000/docs
 
 --- ----
-
-## Notes
-
-- Code contains `--- ----` separators and `#` comments as requested.
